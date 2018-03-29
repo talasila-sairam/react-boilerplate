@@ -1,0 +1,17 @@
+ .user {
+     display: inline-block;
+     width: 20%;
+     padding: 10px;
+     text-align: center;
+     margin: 5px;
+     border: 1px solid black;
+     background: slategrey;
+}
+ .title{
+     display: inline-block;
+
+ }
+ .backButton{
+     display: inline-block;
+     float: right;
+ }
